@@ -88,7 +88,7 @@ namespace Calculs
                         break;
                     case "0": // demande de fin de programme
                         break;
-                    default: // autre valeur donc erreur de saisie
+                    default: // autre valeur donc afficher : erreur de saisie
                         Console.WriteLine("Erreur de saisie");
                         break;
                 }
